@@ -1,7 +1,6 @@
 # My Resume - Arnav Tripathi
 
 Welcome to my resume repository. I am a Computer Science student at VIT Bhopal with a focus on Cloud Computing, Generative AI, and Software Development.
-
 ## About Me
 - Education: B.Tech in CSE (Core) at VIT Bhopal (Current CGPA: 8.00)
 - Experience: Virtual Internship at NASSCOM (Google Cloud Generative AI)
