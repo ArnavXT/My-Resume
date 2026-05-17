@@ -24,7 +24,7 @@ Welcome to my resume repository. I am a Computer Science student at VIT Bhopal w
 
 ## View Resume
 You can find my latest resume in this repository:
-- [Download Resume (DOCX)](./Arnav_resume.docx)
+- [Download Resume (DOCX)](./Arnav_Tripathi_ATS.pdf)
 
 ---
 Connect with me:
