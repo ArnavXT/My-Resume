@@ -2,7 +2,7 @@
 
 Welcome to my resume repository. I am a Computer Science student at VIT Bhopal with a focus on Cloud Computing, Generative AI, and Software Development.
 ## About Me
-- Education: B.Tech in CSE (Core) at VIT Bhopal (Current CGPA: 8.23)
+- Education: B.Tech in CSE (Core) at VIT Bhopal (Current CGPA: 8.26)
 - Experience: Virtual Internship at NASSCOM (Google Cloud Generative AI)
 - Achievements: 2nd Runner-up in SOLVIT Hackathon (Smart Traffic Violation Reporting System)
 - Leadership: Design Team Co-Lead at WiCyS VIT Bhopal Student Chapter
